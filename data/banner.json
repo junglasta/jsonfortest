@@ -1,0 +1,29 @@
+[
+    {
+        "swiperImgLink":"이미지경로는 서버절대경로",
+        "swiperImgTitle":"큰글자 설명 h2",
+        "swiperImgDesc":"작은 설명 p태그",
+        "swiperBtnText":"링크 태그 text로",
+        "swiperBtnLink":"링크값",
+        "swiperBtnTarget":"_blank 새창에서 열릴지",
+        "swiperClass":"swiperActive 각 스와이퍼의 클래스명"
+    },
+    {
+        "swiperImgLink":"이미지경로는 서버절대경로",
+        "swiperImgTitle":"큰글자 설명 h2",
+        "swiperImgDesc":"작은 설명 p태그",
+        "swiperBtnText":"링크 태그 text로",
+        "swiperBtnLink":"링크값",
+        "swiperBtnTarget":"_blank 새창에서 열릴지",
+        "swiperClass":"swiperActive 각 스와이퍼의 클래스명"
+    },
+    {
+        "swiperImgLink":"이미지경로는 서버절대경로",
+        "swiperImgTitle":"큰글자 설명 h2",
+        "swiperImgDesc":"작은 설명 p태그",
+        "swiperBtnText":"링크 태그 text로",
+        "swiperBtnLink":"링크값",
+        "swiperBtnTarget":"_blank 새창에서 열릴지",
+        "swiperClass":"swiperActive 각 스와이퍼의 클래스명"
+    }
+]
