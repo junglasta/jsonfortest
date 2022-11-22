@@ -1,5 +1,14 @@
 ul, li{list-style: none;}
-#hd img{height: 20px;}
+.navbar h1 img{height: 20px;}
+.nav_wrap {
+    text-align: center;
+}
+/* 폰트 */
+#gnb{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 2rem;
+}
+/* {font-family: 'Nanum Gothic Coding', monospace;} */
 
 /* 스크롤 터지게 하는 */
 section{ height: 100vh; }

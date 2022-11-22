@@ -1,0 +1,29 @@
+[
+    {
+        "swiperImgLink":"/pwa/banner1.png",
+        "swiperImgTitle":"내소개 페이지",
+        "swiperImgDesc":"저를 소개합니다~~",
+        "swiperBtnText":"더 알아보기",
+        "swiperBtnLink":"#none",
+        "swiperBtnTarget":"_blank",
+        "swiperClass":"swiperActive"
+    },
+    {
+        "swiperImgLink":"/pwa/banner2.png",
+        "swiperImgTitle":"카페24 CMS EC",
+        "swiperImgDesc":"아임닭 세컨드브랜드, 아임독",
+        "swiperBtnText":"더 알아보기",
+        "swiperBtnLink":"#none",
+        "swiperBtnTarget":"_blank",
+        "swiperClass":"swiperActive"
+    },
+    {
+        "swiperImgLink":"/pwa/banner3.png",
+        "swiperImgTitle":"제작노트 기획서",
+        "swiperImgDesc":"사진이예뻐요",
+        "swiperBtnText":"더 알아보기",
+        "swiperBtnLink":"#none",
+        "swiperBtnTarget":"_blank",
+        "swiperClass":"swiperActive"
+    }
+]

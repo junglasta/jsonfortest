@@ -6,9 +6,9 @@ $(function(){
         datatType : "json",
         success : function( naviData ){
             /////////비동기통신 데이터 역할은 여기까기  
-            // ul
+            // ul naviData[0]
             var gnbli = '';
-            $.each(naviData, (index, item)=>{
+            $.each(naviData[0], (index, item)=>{
                 if( item.isNav ){ // json에서 노출여부 설정
                     gnbli += `<li class="nav-item ${item.navClass}">
                                 <a class="nav-link" href="${item.navLink}">${item.navTitle}
@@ -17,9 +17,21 @@ $(function(){
                 }                
             })
             $('#gnb').html(gnbli)
+
+            // 한국어-영어 // HTML select 안에 못 넣겠으면 걍 ul/li 해서 each문으로 DB 연동만 해라 naviData[1]
+            var lanKE = '';
+            $.each(naviData[1], (index, item)=>{
+                if( item.isNav ){ // json에서 노출여부 설정
+                    lanKE += `<li class="nav-item ${item.navClass}">
+                                <a class="nav-link" href="${item.navLink}">${item.navTitle}
+                                </a>
+                            </li>`;
+                }                
+            })
+            $('#utilmenu').html(lanKE)
             /////////비동기통신 데이터 역할은 여기까기 마침
 
-            /////////여기서부터는 인터렉티브작업이 시작됨
+            /////////여기서부터는 인터렉티브 작업이 시작됨
             $('#gnb').on('click', '.scrollPage a', function(e){
                 e.preventDefault();
                 var _this = $(this) // 클릭한 객체의 a를 저장 / $(this)가 어떤 이벤트에 쓰이느냐에 따라 다르니까, 변수 지정

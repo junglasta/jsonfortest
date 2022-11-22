@@ -1,31 +1,42 @@
 [
-    {
-        "navTitle":"내소개",
-        "navLink":"#about",
-        "navTarget":"",
-        "navClass":"scrollPage",
-        "isNav":true
-    },
-    {
-        "navTitle":"작업물",
-        "navLink":"#portfolio",
-        "navTarget":"",
-        "navClass":"scrollPage",
-        "isNav": true
-    },
-    {
-        "navTitle":"면접제안",
-        "navLink":"#contact",
-        "navTarget":"",
-        "navClass":"scrollPage",
-        "isNav": true
-    },
+    [ 
+        {
+            "navTitle":"내소개",
+            "navLink":"#about",
+            "navTarget":"",
+            "navClass":"scrollPage",
+            "isNav":true
+        },
+        {
+            "navTitle":"작업물",
+            "navLink":"#portfolio",
+            "navTarget":"",
+            "navClass":"scrollPage",
+            "isNav": true
+        },
+        {
+            "navTitle":"면접제안",
+            "navLink":"#contact",
+            "navTarget":"",
+            "navClass":"scrollPage",
+            "isNav": true
+        }
+    ],
     
-    {
-        "navTitle":"한국어",
-        "navLink":"",
-        "navTarget":"_blank",
-        "navClass":"btn rounded-pill text-dark bg-transparent",
-        "isNav":true
-    }
+    [    
+        {
+            "navTitle":"한국어",
+            "navLink":"",
+            "navTarget":"_blank",
+            "navClass":"btn rounded-pill pe-5 text-dark bg-transparent",
+            "isNav":true
+        },
+        {
+            "navTitle":"ENGLISH",
+            "navLink":"",
+            "navTarget":"_blank",
+            "navClass":"btn rounded-pill pe-5 text-dark bg-transparent",
+            "isNav":true
+        }
+    ]
 ]
