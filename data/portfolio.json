@@ -4,26 +4,77 @@
         "swiperImgTitle":"내소개 페이지",
         "swiperImgDesc":"저를 소개합니다~~",
         "swiperBtnText":"더 알아보기",
-        "swiperBtnLink":"#none",
+        "swiperBtnLink":"#portIam",
         "swiperBtnTarget":"_blank",
-        "swiperClass":"swiperActive"
+        "swiperClass":"swiperActive",
+        "links": [
+            {
+                "linkInto": "https://github.com/junglasta",
+                "linkName": "깃 주소",
+                "linkClass": "fa-brands fa-github"
+            },
+            {
+                "linkInto": "https://www.figma.com/",
+                "linkName": "피그마 주소",
+                "linkClass": "fa-brands fa-figma"
+            },
+            {
+                "linkInto": "https://velog.io/@la_sta",
+                "linkName": "벨로그",
+                "linkClass": "xi-vimeo"
+            }
+        ]
     },
     {
         "swiperImgLink":"/pwa/banner2.png",
         "swiperImgTitle":"카페24 CMS EC",
         "swiperImgDesc":"아임닭 세컨드브랜드, 아임독",
         "swiperBtnText":"더 알아보기",
-        "swiperBtnLink":"#none",
+        "swiperBtnLink":"#portImdok",
         "swiperBtnTarget":"_blank",
-        "swiperClass":"swiperActive"
+        "swiperClass":"swiperActive",
+        "links": [
+            {
+                "linkInto": "https://github.com/junglasta",
+                "linkName": "깃 주소",
+                "linkClass": "fa-brands fa-github"
+            },
+            {
+                "linkInto": "https://www.figma.com/",
+                "linkName": "피그마 주소",
+                "linkClass": "fa-brands fa-figma"
+            },
+            {
+                "linkInto": "https://www.google.com/",
+                "linkName": "구글 ppt",
+                "linkClass": "xi-office"
+            },
+            {
+                "linkInto": "https://velog.io/@la_sta",
+                "linkName": "벨로그",
+                "linkClass": "xi-note-o"
+            }
+        ]
     },
     {
         "swiperImgLink":"/pwa/banner3.png",
         "swiperImgTitle":"제작노트 기획서",
-        "swiperImgDesc":"사진이예뻐요",
-        "swiperBtnText":"더 알아보기",
+        "swiperImgDesc":"~~~~했습니다",
+        "swiperBtnText":"#portPlan",
         "swiperBtnLink":"#none",
         "swiperBtnTarget":"_blank",
-        "swiperClass":"swiperActive"
+        "swiperClass":"swiperActive",
+        "links": [
+            {
+                "linkInto": "https://www.google.com/",
+                "linkName": "구글 ppt",
+                "linkClass": "xi-office"
+            },
+            {
+                "linkInto": "https://velog.io/@la_sta",
+                "linkName": "벨로그",
+                "linkClass": "xi-note-o"
+            }
+        ]
     }
 ]

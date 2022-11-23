@@ -1,0 +1,125 @@
+[
+    {
+        "swiperBtnText": [ "사이트 보러가기 >", "" ],
+        "swiperBtnHash": ["#내소개", "#작업물", "#면접제안", "#ENG", "#한국어"],
+        "swiperBtnLink":"#pfIntroduce",
+        "swiperBtnTarget":"_blank",
+        "swiperImgLink":"/pwa/banner1.png",
+        "swiperImgTitle":"기획하는 개발자, 000 소개 페이지",
+        "swiperImgDesc":"코드는 깨끗하게 짧게 자신있게! / 빠른 유지보수, 성능 최적화를 위해 데이터바인딩 처리했습니다.",
+        "swiperTools": ["vscode", "photoshop", "figma", ""],
+        "swiperStacks" : {
+            "HTML5": "20%",
+            "CSS3": "20",
+            "SCSS": "",
+            "BOOTSTRAP 4.6": "20%",
+            "BOOTSTRAP 5": "",
+            "JavaScript" : "40%",
+            "JQuery" : "",
+            "React" : "",
+            "Node.js" : "",
+            "SQL" : ""
+        },
+        "swiperClass":"swiperActive",
+        "swiperLinks": [
+            {
+                "linkSite": "https://github.com/junglasta",
+                "linkName": "깃 주소",
+                "linkClass": "fa-brands fa-github"
+            },
+            {
+                "linkSite": "https://www.figma.com/",
+                "linkName": "피그마 주소",
+                "linkClass": "fa-brands fa-figma"
+            },
+            {
+                "linkSite": "https://velog.io/@la_sta",
+                "linkName": "벨로그",
+                "linkClass": "xi-note-o"
+            }
+        ],
+        "swiperWorkAlone" : "*단독작업 (3일)"
+    },
+    {
+        "swiperBtnText": [ "사이트 보러가기 >", "" ],
+        "swiperBtnHash": ["#반려견", "#닭가슴살사료", "#소형견부터", "대형견까지", "이하늬"],
+        "swiperBtnLink":"#pfImdok",
+        "swiperBtnTarget":"_blank",
+        "swiperImgLink":"/pwa/banner2.png",
+        "swiperImgTitle":"카페24 EC호스팅 아임독",
+        "swiperImgDesc":"아임닭 세컨드 브랜드 EC 기획 및 웹페이지 구현/ 빠른 유지보수, 성능 최적화를 위해 데이터바인딩 처리",
+        "swiperTools": ["vscode", "photoshop", "figma", "VLLO"],
+        "swiperStacks" : {
+            "HTML5": "20%",
+            "CSS3": "20",
+            "SCSS": "",
+            "BOOTSTRAP 4.6": "20%",
+            "BOOTSTRAP 5": "",
+            "JavaScript" : "40%",
+            "JQuery" : "",
+            "React" : "",
+            "Node.js" : "",
+            "SQL" : ""
+        },
+        "swiperClass":"swiperActive",
+        "swiperLinks": [
+            {
+                "linkSite": "https://github.com/junglasta",
+                "linkName": "깃 주소",
+                "linkClass": "fa-brands fa-github"
+            },
+            {
+                "linkSite": "https://www.figma.com/",
+                "linkName": "피그마 주소",
+                "linkClass": "fa-brands fa-figma"
+            },
+            {
+                "linkSite": "https://www.google.com/",
+                "linkName": "구글 ppt",
+                "linkClass": "xi-office"
+            },
+            {
+                "linkSite": "https://velog.io/@la_sta",
+                "linkName": "벨로그",
+                "linkClass": "xi-note-o"
+            }
+        ],
+        "swiperWorkAlone" : "*단독작업 (3일)"
+    },
+    {
+        "swiperBtnText": [ "사이트 보러가기 >", "" ],
+        "swiperBtnHash": ["#반려견", "#닭가슴살사료", "#소형견부터", "대형견까지", "이하늬"],
+        "swiperBtnLink":"#pfPlan",
+        "swiperBtnTarget":"_blank",
+        "swiperImgLink":"/pwa/banner3.png",
+        "swiperImgTitle":"제작노트 기획서",
+        "swiperImgDesc":"경쟁업체에 대항해 아임닭 세컨드 브랜드를 기획하고 마케팅을 구상했습니다. / 퍼소나 선정부터 가상의 판매상품 및 배너를 디자인, 웹페이지를 구현.",
+        "swiperTools": ["vscode", "photoshop", "figma", ""],
+        "swiperStacks" : {
+            "HTML5": "20%",
+            "CSS3": "20",
+            "SCSS": "",
+            "BOOTSTRAP 4.6": "20%",
+            "BOOTSTRAP 5": "",
+            "JavaScript" : "40%",
+            "JQuery" : "",
+            "React" : "",
+            "Node.js" : "",
+            "SQL" : ""
+        },
+        "swiperClass":"swiperActive",
+        "swiperLinks": [
+            {
+                "linkSite": "https://www.google.com/",
+                "linkName": "구글 ppt",
+                "linkClass": "xi-office"
+            },
+            {
+                "linkSite": "https://velog.io/@la_sta",
+                "linkName": "벨로그",
+                "linkClass": "xi-note-o"
+            }
+        ],
+        "swiperWorkAlone" : "*단독작업 (3일)"
+    }
+]

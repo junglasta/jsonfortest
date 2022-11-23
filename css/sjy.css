@@ -10,6 +10,26 @@ ul, li{list-style: none;}
 }
 /* {font-family: 'Nanum Gothic Coding', monospace;} */
 
+@font-face {
+    font-family: 'Headline R';
+
+    src: url('/pwa/font/HMKMRHD.TTF');
+    src:  url('/pwa/font/HMKMRHD.TTF') format('truetype');
+}
+
+    #portfolio h2 {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Headline R';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    }
+
 /* 스크롤 터지게 하는 */
 section{ height: 100vh; }
 
